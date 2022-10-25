@@ -22,6 +22,10 @@ N/A
 
 Access website at https://sulaiman-ai.github.io/trilogy-module1-accessibility-refactor/
 
+```md
+![alt text](assets/images/screenshot.png)
+```
+
 ## License
 
 Please refer to the license in the repo.
